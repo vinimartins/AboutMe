@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Vinicius Manara</string>
+    <string name="yellow_Star">Yellow Star</string>
+    <string name="avatar">Avatar</string>
+
+    <string name="bio">Olá, tudo bem?\n
+
+Meu nome é Vinícius, me considero um eterno aprendiz e meu objetivo é colaborar ativamente para evolução e inovação da TI no Brasil!\n
+
+Acredito que a tecnologia e o conhecimento possibilitam alavancar resultados na vida das pessoas e empresas. Eu procuro impactar o maior número de pessoas ao meu redor, para incentivar a colaboração, novas conexões e superações.
+
+\nHoje, sou formado em Análise e Desenvolvimento de Sistemas, e estou cursando MBA em Mobile Development: Virtual Assistants, Chatbots e IOT, além de ter CPA-20, que é uma certificação bancária para comercializar produtos de investimento para público de alta renda e investidores qualificados (mercado financeiro me atrai).
+
+\nTenho breve conhecimento com:\n
+\nReact-Native (desenvolvimento mobile), NodeJs e desenvolvimento de Chatbots.\n
+
+\nMas também tenho experiência como garçom e vendedor ambulante.\n
+
+\nSou altamente proativo, dinâmico e fujo da zona de conforto. Enfim, busco pessoas e empresas que agreguem valor e que busquem, acima de tudo, aliados.\n
+
+\n• Pós-Graduação - FIAP (Faculdade de Informática e Administração Paulista):\n
+Cursando MBA - Mobile Development: Chatbots, Virtual Assistants e IOT
+
+\n• Graduação - UNINOVE (Universidade Nove de Julho):\n
+Formado em Análise e Desenvolvimento de Sistemas – (dez/2017)
+
+\n• Idioma:\n
+Inglês avançado.
+
+\n• Certificados:\n
+CPA20 - (Certificação Profissional ANBIMA - Série 20)
+</string>
+    <string name="nicknameHint">Qual seu apelido?</string>
+    <string name="done">Done</string>
+</resources>
